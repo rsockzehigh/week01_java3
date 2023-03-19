@@ -1,0 +1,21 @@
+package week01a;
+
+public class Test2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+//compound operators
+		
+	//if statements
+		
+		int age=21;
+		if (age >=21) {
+			System.out.println("welcome to the club!");
+		}else {	
+			System.out.println("piss off!");
+		}
+		
+		
+	}
+
+}
